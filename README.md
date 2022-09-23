@@ -1,11 +1,5 @@
 # Hands-on-Kubernetes-on-Azure-Third-Edition
 
-### Learn Terraform - Provision AKS Cluster
-
-This repo is a companion repo to the [Provision an AKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-aks-cluster), containing Terraform configuration files to provision an AKS cluster on Azure.
-
-Learning Terraform. Cloned repo from HashiCorp. Followed HashiCorp documentation listed above.
-
 ### Text referenced
 Going thru this book listed here, co-authored by fellow Cloud Architect at Microsoft: [Hands-on Kubernetes on Azure: Use Azure Kubernetes Service to automate management, scaling, and deployment of containerized applications, 3rd Edition](https://www.amazon.com/Hands-Kubernetes-Azure-containerized-applications/dp/1801079943).
 
@@ -21,3 +15,8 @@ Steps to remediate:
 
 ### Add alias for kubectl command
 `alias k='kubectl'`
+
+
+### Learn Terraform - Provision AKS Cluster
+
+Docs for Learning Terraform alongside AKS: [Provision an AKS Cluster learn guide](https://learn.hashicorp.com/terraform/kubernetes/provision-aks-cluster), containing Terraform configuration files to provision an AKS cluster on Azure.
